@@ -1,2 +1,0 @@
-# FoodPlus
-Imax application
